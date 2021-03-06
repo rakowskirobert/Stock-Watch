@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Stock-Watch
 
-You can use the [editor on GitHub](https://github.com/rakowskirobert/stockholder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can find simple watch for indexes and markets.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All the data are from site https://stooq.pl/. This site only show current market data in simple way
 
 ### Markdown
 
@@ -25,8 +25,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# GPW in Warsaw
+
+<script type="text/javascript" src="https://static.stooq.com/pp/g.js"></script>
+
+**Currencies**
+
 <script type="text/javascript" src="https://static.stooq.com/pp/c.js"></script>
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
