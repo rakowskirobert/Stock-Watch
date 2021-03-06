@@ -1,18 +1,19 @@
-## Welcome to Stock-Watch
+## Witaj na Stock-Watch
 
-Here you can find simple watch for indexes and markets.
+Znajdziesz tutaj notowania światowych indeksów GPW oraz walut. 
+Strona pokazuje dane rynkowe w bardzo prostej formie.
 
-All the data are from site https://stooq.pl/. This site only show current market data in simple way
+Dane pochodzą z https://stooq.pl/. 
 
-# GPW in Warsaw
+# Gielda Papierów Wartościowych w Warszawie
 
 <script type="text/javascript" src="https://static.stooq.com/pp/gc.js"></script>
 
-## Currencies
+## Waluty
 
 <script type="text/javascript" src="https://static.stooq.com/pp/c.js"></script>
 
-### Main Indexes 
+### Indeksy
 <script type="text/javascript" src="https://static.stooq.com/pp/wc.js"></script>
 
 
