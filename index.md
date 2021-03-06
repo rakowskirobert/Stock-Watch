@@ -1,6 +1,6 @@
 ## Witaj na Stock-Watch
 
-Znajdziesz tutaj notowania światowych indeksów GPW oraz walut. 
+Znajdziesz tutaj notowania światowych indeksów, GPW oraz walut. 
 Strona pokazuje dane rynkowe w bardzo prostej formie.
 Kliknij na dany ticker by zobaczyć szczegółowy wykres
 
