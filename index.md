@@ -2,10 +2,17 @@
 
 Znajdziesz tutaj notowania światowych indeksów GPW oraz walut. 
 Strona pokazuje dane rynkowe w bardzo prostej formie.
-
-Dane pochodzą z https://stooq.pl/. 
+Kliknij na dany ticker by zobaczyć szczegółowy wykres
 
 # Gielda Papierów Wartościowych w Warszawie
+
+Główne indeksy z Warszawskiej GPW.  WIG to łączna wartość całego rynku. 
+WIG20 reprezentuje 20 największych spółek
+WIG20 fut reprezentuje aktulną wycenę kontraktów typu futures
+WIG20 USD przedstawia wycenę WIG20 w dolarze amerykańskim
+mWIG40 reprezentuje 40 średnich spółek notowanych na giełdzie
+sWIG80 reprezentuje 80 małych spółek notowanych na GPW
+Indeksy uwzględniaja jedynie wartości cenowe transakacji bez wypłacanych dywidend
 
 <script type="text/javascript" src="https://static.stooq.com/pp/gc.js"></script>
 
@@ -17,3 +24,4 @@ Dane pochodzą z https://stooq.pl/.
 <script type="text/javascript" src="https://static.stooq.com/pp/wc.js"></script>
 
 
+Dane pochodzą z https://stooq.pl/. 
