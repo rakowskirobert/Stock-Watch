@@ -4,7 +4,7 @@ Znajdziesz tutaj notowania światowych indeksów GPW oraz walut.
 Strona pokazuje dane rynkowe w bardzo prostej formie.
 Kliknij na dany ticker by zobaczyć szczegółowy wykres
 
-# Gielda Papierów Wartościowych w Warszawie
+# Giełda Papierów Wartościowych w Warszawie
 
 Główne indeksy z Warszawskiej GPW.  WIG to łączna wartość całego rynku. 
 WIG20 reprezentuje 20 największych spółek
