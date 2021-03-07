@@ -24,4 +24,5 @@ Indeksy uwzględniaja jedynie wartości cenowe transakacji bez wypłacanych dywi
 <script type="text/javascript" src="https://static.stooq.com/pp/wc.js"></script>
 
 
-Dane pochodzą z https://stooq.pl/. 
+Dane pochodzą z 
+https://stooq.pl/. 
